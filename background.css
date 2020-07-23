@@ -1,0 +1,54 @@
+ 
+ .background-img{
+ 	/*background-image: url("images/icon/pubgfinalimg.jpg");*/
+ 	background-image: url('images/background/backgroundimg9.jpg');
+ 	 background-repeat: no-repeat;
+ 	  background-attachment: fixed;  
+  background-size: cover;
+
+ 	}
+ 	.text-color {
+ 		color: white;
+ 	}
+ 	.nav-bar{
+ 
+  overflow: hidden;
+  top: 0;
+  width: 100%;
+  z-index=500;
+ 	}
+ 	.backgrndimgclan{
+ 		background-image: url('images/background/backgroundimg25.jpg');
+ 	 background-repeat: no-repeat;
+ 	  background-attachment: fixed;  
+  background-size: cover;
+
+ 	}
+ 	.backgrndimgdtl{
+ 		background-image: url('images/background/backgroundimg28.jpg');
+ 	 background-repeat: no-repeat;
+ 	  background-attachment: fixed;  
+  background-size: cover;
+
+ 	}
+ 	.backgrndimgwpn{
+ 		background-image: url('images/background/backgroundimg28.jpg');
+ 	 background-repeat: no-repeat;
+ 	  background-attachment: fixed;  
+  background-size: cover;
+
+ 	}
+ 	.backgrndimginfo{
+ 		background-image: url('images/background/backgroundimg6.jpg');
+ 	 background-repeat: no-repeat;
+ 	  background-attachment: fixed;  
+  background-size: cover;
+
+ 	}
+ 	.backgrndimggame{
+ 		background-image: url('images/background/backgroundimg23.jpg');
+ 	 background-repeat: no-repeat;
+ 	  background-attachment: fixed;  
+  background-size: cover;
+
+ 	}
